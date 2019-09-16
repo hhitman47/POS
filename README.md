@@ -1,1 +1,1 @@
-![](POS/GitPOS.png)
+![](GitPOS.PNG)
